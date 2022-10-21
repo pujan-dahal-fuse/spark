@@ -1,0 +1,8 @@
+Region,Item List
+Asia,"['Cereal', 'Snacks', 'Office Supplies', 'Vegetables', 'Clothes']"
+Australia and Oceania,"['Personal Care', 'Vegetables', 'Cereal', 'Beverages', 'Clothes']"
+Central America and the Caribbean,"['Cosmetics', 'Clothes', 'Meat', 'Office Supplies', 'Baby Food']"
+Europe,"['Cereal', 'Office Supplies', 'Vegetables', 'Beverages', 'Fruits']"
+Middle East and North Africa,"['Office Supplies', 'Personal Care', 'Baby Food', 'Clothes', 'Snacks']"
+North America,"['Cosmetics', 'Household', 'Beverages', 'Cereal', 'Baby Food']"
+Sub-Saharan Africa,"['Cosmetics', 'Baby Food', 'Beverages', 'Office Supplies', 'Household']"
