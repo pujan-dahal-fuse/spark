@@ -26,7 +26,7 @@ The result received were written to `csv` files in [`output`](assignments/output
 
 ### **Setup JDBC**
 
-After installing PostgreSQL, download the postgresql jar file from the following link: [https://jdbc.postgresql.org/download/](https://jdbc.postgresql.org/download/) and paste it in `/usr/lib/jvm/[java_folder]/lib/`
+After installing PostgreSQL, download the postgresql jar file from the following link: [https://jdbc.postgresql.org/download/](https://jdbc.postgresql.org/download/) and paste it in `/usr/lib/jvm/[java_folder]/lib/`. Also create a database named `Spark` and within it two schemas named `tweets` and `sales` respectively.
 
 ### **Running spark-submit**
 Run the following while doing spark-submit in for `.py` files in [`assignments`](assignments/):
